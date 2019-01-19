@@ -1,5 +1,7 @@
 {
   "name": "media",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
